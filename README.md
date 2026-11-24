@@ -47,3 +47,16 @@ Zahlung per PayPal an **https://www.paypal.me/KaiKuhnert713** unter Angabe des g
 * [CUSTOMER-PILOT-ACCESS.md](./CUSTOMER-PILOT-ACCESS.md)
 * [EVIDENCE.md](./EVIDENCE.md)
 * [EVIDENCE-SCOPE.md](./EVIDENCE-SCOPE.md)
+
+---
+
+## 5. Bestätigte Partner- & Affiliate-Programme (0 € Vorkasse)
+
+Ergänzend zu Türsteher & Tresor führt Rhodium Germany geprüfte Partner-Angebote ohne Vorabkosten oder eigenen First-Level-Support:
+
+* **ASCOMP Software GmbH** — Backup & Datensicherung (30 % Provision auf Erst- & Folgekäufe)
+* **Telmetra Ltd** — IT-Monitoring & Backup (20 % wiederkehrende Provision)
+* **Hanc.AI** — KI-Agenten (15 % Lifetime, ab 1.000 €/Monat 20 %)
+* **HostPress GmbH** — Managed WordPress Hosting (15 % Lifetime, Auszahlung ab 25 €)
+* **Sovos** — Steuer- & Compliance-Lösungen (15 % Provision, reiner Tippgeber-Ablauf)
+* **Voico GmbH** — KI-Telefonie (10 % laufend auf Netto-MRR)
