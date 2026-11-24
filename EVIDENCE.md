@@ -29,7 +29,7 @@ Der lokale Registerstand vom 12.10.2026 enthält 10.083 Berichtseinträge, 8.308
 
 Weitere positive Prüfungen werden erst mit zugeordnetem Originalbeleg, Prüfumfang, Ergebnis und Integritätswert aufgenommen. Fehlversuche und unbestätigte Aussagen gehören nicht in die Erfolgsübersicht. Interne Rohdaten und geschützte Box-Implementierungen werden nicht veröffentlicht.
 
-Quelle für den hier beschriebenen lokalen Prüfstand: `D:\Rhodium-Germany\BEWEISE-ZENTRAL-20261011\00_BENCHMARKS_ZUSAMMENGEFUEHRT\15_ABSCHLUSS_STATUS_20261012.txt` und `08_ZUSAMMENFUEHRUNG_STATUS.json` (lokale Prüfprotokolle, nicht extern zertifiziert).
+Quelle für den hier beschriebenen lokalen Prüfstand: `D:\rhodiumgermany\BEWEISE-ZENTRAL-20261011\00_BENCHMARKS_ZUSAMMENGEFUEHRT\15_ABSCHLUSS_STATUS_20261012.txt` und `08_ZUSAMMENFUEHRUNG_STATUS.json` (lokale Prüfprotokolle, nicht extern zertifiziert).
 
 ## Prüfsummen des lokal dokumentierten Doppel-Replays
 

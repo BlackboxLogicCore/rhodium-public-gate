@@ -1,48 +1,49 @@
-# Rhodium Germany — Deterministisches Prüf-Gate & Integritätslösung
+# Rhodium Germany — Deterministischer Türsteher & Kryptografischer Tresor
 
-**Website:** https://rhodium-germany.de  
-**Kontakt:** info@rhodium-germany.tech  
+**Webseite:** https://rhodiumgermany.de  
+**Geschäftskontakt & Pilotanfragen:** info@rhodiumgermany.tech  
 **Direkte Buchung (PayPal):** https://www.paypal.me/KaiKuhnert713  
 
----
+Rhodium Germany schützt digitale Systeme, KI-Pipelines und kritische Datenbestände mit zwei klar getrennten Schutzschichten:
 
-## 1. Erst testen, dann buchen (0 € Evaluierung)
-
-Niemand soll ohne eigenen Nachweis in Vorkasse gehen. Vor jeder kostenpflichtigen Buchung gibt es zwei kostenlose Prüfschritte:
-
-1. **Public Demo Gate — 0 € (sofort):** Eigenständige lokale Ausführung und bit-identische SHA-256-Verifikation direkt aus diesem Repository.
-2. **Kostenloser 1x Pilot-Check auf Beispieldaten — 0 €:** Anonymisiertes Testpaket an info@rhodium-germany.tech senden. Sie erhalten das Prüfprotokoll samt SHA-256-Nachweis vorab – erst danach entscheiden Sie über eine Buchung.
+* **Der Türsteher (Deterministisches Prüf-Gate / Fail-Closed $P=0$):** Prüft eingehende Daten, Payloads und Schnittstellen **vor** der eigentlichen Verarbeitung. Fehlerhafte, unvollständige oder manipulierte Eingaben werden strikt blockiert, bevor Schaden im Zielsystem entsteht.
+* **Der Tresor (Versiegelung & bitidentische Wiederherstellung):** Sichert Datenbestände kryptografisch über SHA-256-Prüfsummen und stellt sie jederzeit nachvollziehbar, unverfälscht und bitidentisch wieder her — während der geschützte Kern vollständig isoliert bleibt.
 
 ---
 
-## 2. Wirtschaftlichkeit & Ersparnis-Kalkulation (ROI-Modell)
+## 1. Erst testen, dann buchen (0 € Bewertung)
 
-In datenintensiven Pipelines, Finanz-Backends und Telekommunikationssystemen entstehen die höchsten laufenden Kosten durch nachträgliche Fehlerbereinigung, redundante Prüfläufe und manuelle Audit-Stunden:
+Niemand geht ohne eigenen Nachweis in Vorleistung. Vor jeder kostenpflichtigen Buchung stehen zwei kostenlose Prüfschritte bereit:
 
-| Prüfbereich / Szenario | Klassischer Ablauf (ohne Vorab-Gate) | Mit **Rhodium Germany Gate** | Kalkulierbarer Vorteil |
-| :--- | :--- | :--- | :--- |
-| **Integritäts- & Audit-Aufwand** (10 Mio. Datensätze / Monat) | Nachträgliche Fehleranalyse & manuelle Nachprüfung (ca. 4–8 Std./Monat à 80 € = **320 € – 640 €/Monat**) | Deterministische SHA-256-Vorabprüfung (P=0-Ansatz) fängt Abweichungen vor der Weiterverarbeitung ab | **300 € – 600 €/Monat** weniger Prüf- und Nacharbeitszeit |
-| **Transfer- & Speicher-Volumen** (Infrastruktur / Telco / Cloud) | Pauschale Vollübertragung und Mehrfach-Checksums | Reduzierter Prüf-Footprint; exakte Einsparung wird im **Individual-Audit** auf realen Daten gemessen | **Volle Transparenz** vor Vertragsabschluss |
-| **Einstiegs- & Lizenzmodell** | Oft 500 € – 2.500 €/Monat Fixkosten vor dem ersten Test | **0 € Test** -> **79 €** (Starter) / **249 €** (Pro) / **Shared Savings** (Enterprise) | **Kein blindes Vorab-Risiko** |
+1. **Public Demo Gate — 0 € (sofort):** Eigenständige lokale Prüfung und bitidentische SHA-256-Verifikation anhand der öffentlichen Nachweise in diesem Repository.
+2. **Kostenloser 1x Pilot-Check auf Beispieldaten — 0 €:** Senden Sie ein anonymisiertes Testpaket an **info@rhodiumgermany.tech**. Sie erhalten das vollständige Prüfprotokoll samt SHA-256-Nachweis vorab — erst danach entscheiden Sie über eine Buchung.
 
 ---
 
-## 3. Pakete & Direkte Buchung
+## 2. Lizenz- & Buchungspakete (Einmalzahlung, kein Abo-Zwang)
 
-### A. Kostenloser Pilot-Check & Public Demo Gate — 0 €
-* **Leistungsumfang:** Freie Nutzung des Demo-Gates plus einmaliger kostenloser Prüfbericht auf anonymisierten Beispieldaten.
-* **Anfrage:** info@rhodium-germany.tech
+| Paket | Umfang & Leistung | Preis |
+| :--- | :--- | :--- |
+| **Pilot-Check (Einstieg)** | 1x Prüfung auf anonymisierten Beispieldaten inkl. SHA-256-Prüfprotokoll | **0 €** |
+| **Commercial Gate Access** | Kommerzieller Zugang zum Prüf-Gate & dokumentierte Integritätsprüfung | **79 €** (einmalig) |
+| **Pro-Lizenz** | Erweiterter Produktions-Gatekeeper & Tresor-Wiederherstellungspaket | **249 €** (einmalig) |
+| **Enterprise & Lizenzpartner** | Isolierte Produktionsinstanz (Arbeiterbox), individueller Scope & Gegentest | **Auf Anfrage** |
 
-### B. Commercial Gate Access (Starter-Paket) — 79 € (einmalig)
-* **Leistungsumfang:** Produktive Nutzung des Rhodium-Gates, SHA-256-Integritätsprotokolle und technisches Onboarding.
-* **Direkt buchen:** [Jetzt Commercial Access über PayPal buchen (79 €)](https://www.paypal.me/KaiKuhnert713/79EUR)
+**Direktbuchung:**  
+Zahlung per PayPal an **https://www.paypal.me/KaiKuhnert713** unter Angabe des gewünschten Pakets und Ihrer E-Mail-Adresse (optional mit Partner-Code, z. B. `Ref: ...`). Die Freischaltung und Unterlagen folgen unmittelbar an Ihre E-Mail-Adresse.
 
-### C. Pro- & Team-Lizenz — 249 € (einmalig)
-* **Leistungsumfang:** Erweiterte Integrationsunterstützung, Prioritäts-Support und individuelle Konfigurationsprüfung.
-* **Direkt buchen:** [Jetzt Pro-Lizenz über PayPal buchen (249 €)](https://www.paypal.me/KaiKuhnert713/249EUR)
+---
 
-### D. Enterprise, Banken & Infrastruktur (Volumen / Shared Savings)
-* **Leistungsumfang:** Großvolumen (TB-Bereich), Telekommunikations- oder Bank-Pipelines nach individuellem Benchmark-Audit (**Shared Savings / Revenue Share**).
-* **Direktanfrage:** info@rhodium-germany.tech
+## 3. Architektur & Sicherheitsgrenzen (Black-Box-Prinzip)
 
-> **Buchungsablauf:** Bitte bei der PayPal-Zahlung im Verwendungszweck **E-Mail-Adresse** und **Paket** (Starter oder Pro) angeben. Freischaltung und Zugangsdaten erfolgen über info@rhodium-germany.tech.
+* **Voller Schutz des Kerns:** Quellcode, interne Research-Systeme und private Signaturschlüssel bleiben vollständig isoliert bei Rhodium Germany.
+* **Nachvollziehbare Ergebnisse:** Jede Prüfung erzeugt reproduzierbare SHA-256-Prüfsummen und klare Pass/Fail-Protokolle ohne Black-Box-Vertrauensvorschuss.
+* **Schriftliche Abwicklung:** Technische Rückfragen, Pilotpakete und Lizenzvereinbarungen laufen direkt über **info@rhodiumgermany.tech**.
+
+---
+
+## 4. Weiterführende Dokumente in diesem Repository
+
+* [CUSTOMER-PILOT-ACCESS.md](./CUSTOMER-PILOT-ACCESS.md)
+* [EVIDENCE.md](./EVIDENCE.md)
+* [EVIDENCE-SCOPE.md](./EVIDENCE-SCOPE.md)
